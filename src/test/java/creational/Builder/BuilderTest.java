@@ -27,7 +27,9 @@ public class BuilderTest {
 						  .withKindOfWeapon(WeaponKind.Sword)
 						  .withName("sword Z")
 						  .build();
+		System.out.println(fairy.toString());
 		Assert.assertNotNull(fairy.toString());
+		
 	}
 	
 	
