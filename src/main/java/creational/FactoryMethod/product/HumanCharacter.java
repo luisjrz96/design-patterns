@@ -1,4 +1,4 @@
-package creational.Factory.product;
+package creational.FactoryMethod.product;
 
 public class HumanCharacter extends Character{
 
